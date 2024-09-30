@@ -16,6 +16,7 @@ flowchart TD
   F -->|Too Low| H[Display 'Too Low' Message] --> C
   F -->|Correct| I[Display 'Correct' Message] --> J[End Game]
 
+
 ## Explanation of the Flowchart
 
 1. **Start**: The game begins.
